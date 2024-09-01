@@ -1,6 +1,6 @@
 # Dream-Team
 
-## About Project
+##  Project Overview
 
 
 Cricket is a game that is extremely prominent in India and Australia. It initially started in 
