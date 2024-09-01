@@ -1,6 +1,6 @@
 # Dream-Team
 
-#[About Project]
+##About Project
 
 
 Cricket is a game that is extremely prominent in India and Australia. It initially started in 
@@ -27,7 +27,7 @@ and statistical analysis, teams can make more informed decisions about player se
 composition, and game strategies.
 
 
-#[Problem definition ]
+## Problem Definition 
 
 
 
@@ -40,7 +40,7 @@ will help to overcome these problems by knowing exactly where things are going w
 
 
 
-#[Aims ]
+## Aims 
 1. The first objective of the project is to find a dataset, which includes information about the 
 Most of the cricket players and the matches. The data must be real and should contain 
 detailed information based on the number of matches that player has played against other 
